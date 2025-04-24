@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.Form1.resources
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.csproj.GenerateResource.cache
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.AssemblyInfo.cs
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\porydok\porydok\bin\Debug\net8.0-windows\porydok.exe
+C:\Users\User\source\repos\porydok\porydok\bin\Debug\net8.0-windows\porydok.deps.json
+C:\Users\User\source\repos\porydok\porydok\bin\Debug\net8.0-windows\porydok.runtimeconfig.json
+C:\Users\User\source\repos\porydok\porydok\bin\Debug\net8.0-windows\porydok.dll
+C:\Users\User\source\repos\porydok\porydok\bin\Debug\net8.0-windows\porydok.pdb
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.dll
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\refint\porydok.dll
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.pdb
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\porydok.genruntimeconfig.cache
+C:\Users\User\source\repos\porydok\porydok\obj\Debug\net8.0-windows\ref\porydok.dll
